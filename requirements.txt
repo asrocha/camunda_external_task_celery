@@ -1,0 +1,10 @@
+Django
+Celery
+pytz
+opensearch-py
+nested-lookup
+camunda-external-task-client-python3
+pycamunda
+art
+pydantic
+pyfiglet
